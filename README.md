@@ -1,5 +1,8 @@
 # S3Hunter | Hunts for unreferenced AWS S3 Buckets
 
+## Screenshots
+![S3Hunter](S3Hunter.png)
+
 ## Instructions for running
 1. Run `python3 S3Hunter.py`.<br>
 
